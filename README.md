@@ -1,6 +1,6 @@
 # RoboAdvisor-Portfolio_15
 
-In this repository, you will find the following:
+Following are the relevant files to refer:
 
  - "RoboAdvisor (1).mp4"
  - lambda_function.py
